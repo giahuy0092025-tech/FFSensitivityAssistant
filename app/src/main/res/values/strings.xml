@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FF Sensitivity Assistant</string>
+    <string name="notif_channel_name">Overlay Service</string>
+    <string name="notif_channel_desc">Keeps the crosshair overlay active</string>
+</resources>
